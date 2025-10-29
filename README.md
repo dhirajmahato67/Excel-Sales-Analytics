@@ -1,4 +1,4 @@
-# Excel-Sales-Analytics\
+# Excel-Sales-Analytics
 
 Welcome to my GitHub repository, where I've showcased a variety of data analysis projects that focus on real-world applications. Each project applies analytical techniques, leveraging tools like Excel, Power Query, DAX, and Power Pivot, and focuses on deriving meaningful insights from data. Below is an overview of each project and its objectives.
 
